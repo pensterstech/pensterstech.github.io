@@ -18,50 +18,46 @@
 
 function TheLogin() {
 
-var usradmin = 'blackdevil@gmail.com';
-var passadmin = 'admin';
+var username = 'blackdevil@gmail.com';
+var password = 'hacker';
+
+var usr1 = 'admin@gmail.com';
+
+var pass1 = 'admin';
 
 
-var usr = '@gmail.com';
-var pass = '';
-
-var usr1 = 'minibillgates7265@gmail.com';
-var pass1 = 'Qwert.123';
-
-if (this.document.login.usr.value == usr && this.document.login.pass.value == pass) 
+if (this.document.login.usr.value == username && this.document.login.pass.value == password) 
 {
   window.alert("ACCESS GRANTED ")
   top.location.href="cloudfare.html";
 }
-
-else {
-  window.alert("Incorrect password, please try again.");
-  }
-  
 if (this.document.login.usr.value == usr1 && this.document.login.pass.value == pass1) 
 {
   window.alert("ACCESS GRANTED ")
-  top.location.href="cloudfare.html";
+  top.location.href="g1cloudfare.html";
 }
-
-else {
-  window.alert("Incorrect password, please try again.");
-  }
-  
-if (this.document.login.usr.value == usradmin && this.document.login.pass.value == passadmin) 
+if (this.document.login.usr.value == gusername && this.document.login.pass.value == g2password) 
+{
+  window.alert("ACCESS GRANTED ")
+  top.location.href="g2cloudfare.html";
+}
+if (this.document.login.usr.value == gusername && this.document.login.pass.value == g3password) 
+{
+  window.alert("ACCESS GRANTED ")
+  top.location.href="g3cloudfare.html";
+}
+if (this.document.login.usr.value == user && this.document.login.pass.value == passe) 
 {
   window.alert("ACCESS GRANTED ")
   top.location.href="cloudfare.html";
-}	
-
-
-
+}
 else {
   window.alert("Incorrect password, please try again.");
   }
 }
 
 </script>
+
 
 </head>
 
