@@ -34,12 +34,20 @@ if (this.document.login.usr.value == usr && this.document.login.pass.value == pa
   top.location.href="cloudfare.html";
 }
 
+else {
+  window.alert("Incorrect password, please try again.");
+  }
+  
 if (this.document.login.usr.value == usr1 && this.document.login.pass.value == pass1) 
 {
   window.alert("ACCESS GRANTED ")
   top.location.href="cloudfare.html";
 }
-1
+
+else {
+  window.alert("Incorrect password, please try again.");
+  }
+  
 if (this.document.login.usr.value == usradmin && this.document.login.pass.value == passadmin) 
 {
   window.alert("ACCESS GRANTED ")
@@ -63,7 +71,7 @@ else {
                 <div class="signin-content">
                     <div class="signin-image">
                         <figure><img src="images/signin-image.jpg" alt="sing up image"></figure>
-                        <a href="#" class="signup-image-link">Create an account</a>
+                        <a href="https://pensterstechoff.000webhostapp.com" class="signup-image-link">Create an account</a>
                     </div>
 
                     <div class="signin-form">
