@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for https://pensterstech.github.io/</title>
+  <link>https://pensterstech.github.io/</link>
+
+<item>
+     <link>https://pensterstech.github.io/</link>
+     <title>Penster's Tech</title>
+     <description>Best Platform To Develop Your Hacking and Technical Skills In Short Span Of Time</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://pensterstech.github.io/index.html</link>
+     <title>Penster's Tech</title>
+     <description>Best Platform To Develop Your Hacking and Technical Skills In Short Span Of Time</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://pensterstech.github.io/wiki.html</link>
+     <title> Hacking Wiki</title>
+     <description>Best Platform To Develop Your Hacking and Technical Skills In Short Span Of Time</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://pensterstech.github.io/login/pages/login.html</link>
+     <title>Login</title>
+     <description>Login</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
